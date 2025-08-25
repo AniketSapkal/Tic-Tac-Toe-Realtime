@@ -119,7 +119,7 @@ This project is licensed under the [MIT License](LICENSE).
             <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <br/>
-            <a href="https.linkedin.com/in/sapkalaniket">
+            <a href="https://linkedin.com/in/sapkalaniket">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
             </a>
         </td>
