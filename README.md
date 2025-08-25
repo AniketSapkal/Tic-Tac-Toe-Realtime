@@ -29,7 +29,7 @@ Perfect for learning how to implement WebSockets and real-time communication in 
 
 Experience the game instantly without any signup or installation:
 
-🎮 **Play the game live →** [https://real-time-tic-tac-toe-phoenix.vercel.app/](https://real-time-tic-tac-toe-phoenix.vercel.app/)
+🎮 **Play the game live →** [https://tic-tac-toe-realtime-e0e0.onrender.com](https://tic-tac-toe-realtime-e0e0.onrender.com)
 
 ## 🖼️ Screenshots
 <p align="center">
