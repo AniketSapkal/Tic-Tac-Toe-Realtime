@@ -124,7 +124,7 @@ export const setupSocketHandlers = (io: Server) => {
                 id: Date.now(),
                 playerName,
                 message,
-                timestamp: new Date().toLocaleTimeString(),
+                timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
             };
 
             const messages = chatMessages.get(roomCode) || [];
